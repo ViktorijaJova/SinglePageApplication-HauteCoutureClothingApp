@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.DataAccess.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.AssemblyInfo.cs
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.Services.deps.json
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.Services.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.Services.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.RequestModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.DataAccess.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.RequestModels.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.csproj.CopyComplete
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.Services\obj\Debug\netcoreapp3.1\ClothingStore.Services.pdb

@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.Services\\ClothingStore.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\ClothingStore.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\ClothingStore.DataAccess.csproj",
+        "projectName": "ClothingStore.DataAccess",
+        "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\ClothingStore.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj",
+        "projectName": "ClothingStore.DomainModels",
+        "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\ClothingStore.RequestModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\ClothingStore.RequestModels.csproj",
+        "projectName": "ClothingStore.RequestModels",
+        "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\ClothingStore.RequestModels.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DomainModels\\ClothingStore.DomainModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.Services\\ClothingStore.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.Services\\ClothingStore.Services.csproj",
+        "projectName": "ClothingStore.Services",
+        "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.Services\\ClothingStore.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\ClothingStore.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.DataAccess\\ClothingStore.DataAccess.csproj"
+              },
+              "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\ClothingStore.RequestModels.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\ClothingStore-APp\\clothingstore-server\\ClothingStore-App\\ClothingStore.RequestModels\\ClothingStore.RequestModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

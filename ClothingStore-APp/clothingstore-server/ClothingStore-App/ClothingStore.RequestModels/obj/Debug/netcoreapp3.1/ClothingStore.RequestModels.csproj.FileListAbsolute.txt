@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\bin\Debug\netcoreapp3.1\ClothingStore.RequestModels.deps.json
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\bin\Debug\netcoreapp3.1\ClothingStore.RequestModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\bin\Debug\netcoreapp3.1\ClothingStore.RequestModels.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.AssemblyInfo.cs
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.csproj.CopyComplete
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.RequestModels\obj\Debug\netcoreapp3.1\ClothingStore.RequestModels.pdb

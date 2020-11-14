@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.deps.json
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.AssemblyInfo.cs
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\bin\Debug\netcoreapp3.1\ClothingStore.DomainModels.pdb
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.dll
+C:\Users\User\Desktop\ClothingStore-APp\clothingstore-server\ClothingStore-App\ClothingStore.DomainModels\obj\Debug\netcoreapp3.1\ClothingStore.DomainModels.pdb
